@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Abdullah-Git149.github.io/Pixel_clone/static/css/main.d2d82f98.chunk.css",
+    "main.js": "/Abdullah-Git149.github.io/Pixel_clone/static/js/main.fae38393.chunk.js",
+    "main.js.map": "/Abdullah-Git149.github.io/Pixel_clone/static/js/main.fae38393.chunk.js.map",
+    "runtime-main.js": "/Abdullah-Git149.github.io/Pixel_clone/static/js/runtime-main.df45c9f7.js",
+    "runtime-main.js.map": "/Abdullah-Git149.github.io/Pixel_clone/static/js/runtime-main.df45c9f7.js.map",
+    "static/css/2.5bcb9795.chunk.css": "/Abdullah-Git149.github.io/Pixel_clone/static/css/2.5bcb9795.chunk.css",
+    "static/js/2.b13ed83f.chunk.js": "/Abdullah-Git149.github.io/Pixel_clone/static/js/2.b13ed83f.chunk.js",
+    "static/js/2.b13ed83f.chunk.js.map": "/Abdullah-Git149.github.io/Pixel_clone/static/js/2.b13ed83f.chunk.js.map",
+    "static/js/3.1cda2efd.chunk.js": "/Abdullah-Git149.github.io/Pixel_clone/static/js/3.1cda2efd.chunk.js",
+    "static/js/3.1cda2efd.chunk.js.map": "/Abdullah-Git149.github.io/Pixel_clone/static/js/3.1cda2efd.chunk.js.map",
+    "index.html": "/Abdullah-Git149.github.io/Pixel_clone/index.html",
+    "static/css/2.5bcb9795.chunk.css.map": "/Abdullah-Git149.github.io/Pixel_clone/static/css/2.5bcb9795.chunk.css.map",
+    "static/css/main.d2d82f98.chunk.css.map": "/Abdullah-Git149.github.io/Pixel_clone/static/css/main.d2d82f98.chunk.css.map",
+    "static/js/2.b13ed83f.chunk.js.LICENSE.txt": "/Abdullah-Git149.github.io/Pixel_clone/static/js/2.b13ed83f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df45c9f7.js",
+    "static/css/2.5bcb9795.chunk.css",
+    "static/js/2.b13ed83f.chunk.js",
+    "static/css/main.d2d82f98.chunk.css",
+    "static/js/main.fae38393.chunk.js"
+  ]
+}
